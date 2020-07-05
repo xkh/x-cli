@@ -1,0 +1,23 @@
+{
+  "name": "x-cli",
+  "version": "1.0.0",
+  "description": "生成自定义cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xone": "./bin/xone.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkh/x-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkh/x-cli/issues"
+  },
+  "homepage": "https://github.com/xkh/x-cli#readme"
+}
